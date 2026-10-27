@@ -1,6 +1,6 @@
 class prog{
     void main(Strings [] args){
-        System.out.println("hello");
+        System.out.println("hello world");
         hgdghdjwh
     }
 }
